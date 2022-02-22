@@ -1,2 +1,2 @@
 # qrcode-creators-with-python
- Simple and detailed qrcode creators.
+## Simple and detailed qrcode creators.
